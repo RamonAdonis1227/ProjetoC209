@@ -13,7 +13,7 @@ Este repositório é dedicado ao projeto de Computação Gráfica (C209) solicit
 - Rode o código, as imagens serão criadas e salvas automaticamente, elas aparecerão no mesmo local onde você fez o upload da imagem
 
 
-## Créditos
+# Créditos
 
 - Gabriel Cardoso
 - Marcelo Vinícius Cysneiros Aragão
