@@ -2,7 +2,7 @@
 
 Este repositório é dedicado ao projeto de Computação Gráfica (C209) solicitado pelo monitor.
 
-# Como Utilizar
+# Funcionamento
 
 - Podemos utilizar o VSCode ou o Google Colab para rodar o código, nessa explicação, estarei explicando como utilizar no Google Colab
 - Primeiramente, faça login no Google Colab, no site "colab.research.google.com"
